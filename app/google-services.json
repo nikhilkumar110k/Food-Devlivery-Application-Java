@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "753529880950",
+    "firebase_url": "https://food-delivery-mad-project-default-rtdb.firebaseio.com",
+    "project_id": "food-delivery-mad-project",
+    "storage_bucket": "food-delivery-mad-project.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753529880950:android:c6133ade36a357dfc7fa57",
+        "android_client_info": {
+          "package_name": "com.example.fooddelievery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs9YL7ZKfTdUW-dyTkLh73lAT_-stnotM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:753529880950:android:f6705d539b321cfac7fa57",
+        "android_client_info": {
+          "package_name": "com.example.myapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCs9YL7ZKfTdUW-dyTkLh73lAT_-stnotM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">foodDelievery</string>
+    <string name="deliver">Delivery to</string>
+    <string name="location">BML Munjal University</string>
+    <string name="open_heading">What would you like to eat?</string>
+    <string name="promotion_heading">Deal of the day</string>
+    <string name="promotion_food_name">Southwestern Pizza</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="recommeded">Recommended</string>
+    <string name="login">login</string>
+    <string name="email">email</string>
+    <string name="item_image">Item Image</string>
+    <string name="Food_name">Cheese Pizza</string>
+    <string name="item_price">₹199</string>
+    <string name="item_calories">670 Cal</string>
+    <string name="item_desc">Bibendum viverra vestibulum vitae nisi libero et praesent proin. Augue sed amet, tortor nulla.</string>
+    <string name="dividing_period">.</string>
+    <string name="item_fat">21g</string>
+    <string name="item_saturated_fat">8g</string>
+    <string name="item_cart_price">₹199</string>
+    <string name="password">password</string>
+    <string name="click_to_register">click_to_register</string>
+    <string name="register">register</string>
+    <string name="click_to_login">click_to_login</string>
+    <string name="logout">logout</string>
+    <string name="fullname">fullname</string>
+    <string name="address">address\n</string>
+    <string name="mobilenumber">mobilenumber</string>
+    <string name="buttoncompleteprofile">buttoncompleteprofile</string>
+</resources>
